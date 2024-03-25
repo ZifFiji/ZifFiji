@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @ZifFiji
 - 👀 I’m interested in Cyber Security
 - 🌱 I’m currently learning C
-- 📫 How to reach me https://fr.linkedin.com/in/arthur-guerinault-a831482a8
