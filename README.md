@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arthur</h1>
-<h3 align="center">Student at Epitech Bordeaux in 2nd year</h3>
+<h3 align="center">Student at Epitech Bordeaux in 3nd year</h3>
 
 
 <h3 align="left">Languages and Tools:</h3>
