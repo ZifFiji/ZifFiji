@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-I'm Arthur Guerinault, a 3rd-year student at Epitech Bordeaux.<br/>
+I'm Arthur Guerinault, a 4th-year student at Epitech Bordeaux.<br/>
 I’m passionate about software engineering, mobile development, and web technologies.
 
 # 🌐 Socials:
